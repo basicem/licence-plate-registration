@@ -7,4 +7,8 @@ includes the following steps:
 • Step 2: Apply optical character recognition (OCR) to recognize characters
 from the license plate
 
-![image](https://github.com/basicem/licence-plate-registration/assets/96090279/1856440e-235f-452e-af6e-6fb3d9df4712)
+![image](https://github.com/basicem/licence-plate-registration/assets/96090279/6745eaaf-d02b-4621-86ab-2067562d3f1d)
+
+![image](https://github.com/basicem/licence-plate-registration/assets/96090279/d73552f4-1c77-4f0c-83fc-1deebba94cc9)
+
+![image](https://github.com/basicem/licence-plate-registration/assets/96090279/878855cc-16d2-4728-88c7-ad4617e41847)
